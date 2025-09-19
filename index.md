@@ -15,5 +15,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-### [Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático](unidad1/unidad1.md)  
-
+### [A1. Sprint 1: Instal·lació i Configuració Inicial](sp1/sp1.md)
