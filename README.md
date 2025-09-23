@@ -12,7 +12,7 @@ Este repositorio contiene el material del curso de Machine Learning desarrollado
 
 Este repositorio está preparado para ser publicado con GitHub Pages.  
 Puedes ver la versión web pública en:  
-https://mireiaconsarnau.github.io/machine_learning/
+https://davidstaicu-dev.github.io/SIPJ1/
 
 ## Licencia
 
