@@ -12,6 +12,10 @@ Canonical, l'equip darrere d'Ubuntu, ja té públicada a la seva web la [llicenc
 
 <img width="876" height="534" alt="image" src="https://github.com/user-attachments/assets/04649a78-f22a-410b-bc2f-7f7e13d445a5" />
 
+### Ubuntu Instal·lat
+<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/47b8434d-7c11-4ab7-906b-b0fcd16f3da8" />
+
+
 ## Instal·lació duals i Gestors d'arrencada
 
 
