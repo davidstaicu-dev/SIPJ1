@@ -19,6 +19,29 @@ Canonical, l'equip darrere d'Ubuntu, ja té públicada a la seva web la [llicenc
 
 ## Instal·lació duals i Gestors d'arrencada
 
+### Hablitem EFI
+<img width="869" height="587" alt="image" src="https://github.com/user-attachments/assets/02e44abd-6bb7-4504-9e23-f9481998b38b" />
+
+### Posem la ISO de Windows 10
+<img width="869" height="587" alt="image" src="https://github.com/user-attachments/assets/ae2de6eb-0f21-4773-a367-53deb035e209" />
+
+### Particions
+<img width="869" height="587" alt="image" src="https://github.com/user-attachments/assets/f274ede7-2fd5-476c-93e0-e3e0a93c288b" />
+
+D'alguna manera, el gestor d'arranc d'Ubuntu no ha petat. Llavors he pogut tornar a Ubuntu. Però ara com puc tornar a Windows? Cal instal·lar el GRUB, per triar entre Windows o Ubuntu. Sols cal aquesta comanda:
+<img width="742" height="305" alt="image" src="https://github.com/user-attachments/assets/89ccc0af-1ceb-4203-a427-4810fc69d8a5" />
+
+És possible que s'hagi de modificar el fitxer /etc/default/grub per posar el TIMEOUT diferent a 0. A més de comentar la segona linia i afegir "GRUB_DISABLE_OS_PROBER=false" en cas de no estar.
+
+<img width="742" height="305" alt="image" src="https://github.com/user-attachments/assets/b154ff85-cf21-4918-a2b7-f1dc2e992f6e" />
+
+Després per aplicar els canvis cal introduir altra comanda:
+<img width="742" height="305" alt="image" src="https://github.com/user-attachments/assets/b77502c5-ac0b-4992-b9f1-a40a2cbfa898" />
+
+En reiniciar es veu el GRUB:
+
+<img width="1017" height="268" alt="image" src="https://github.com/user-attachments/assets/37f9b87f-5dc4-4cde-9a9b-4b8fd69cec7f" />
+
 
 ## Particions i punts de restauració
 ## Configuració bàsica de la xarxa
