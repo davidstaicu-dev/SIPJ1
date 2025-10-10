@@ -42,7 +42,43 @@ En reiniciar es veu el GRUB:
 
 <img width="1017" height="268" alt="image" src="https://github.com/user-attachments/assets/37f9b87f-5dc4-4cde-9a9b-4b8fd69cec7f" />
 
+## Instantanies
+
+<img width="708" height="405" alt="image" src="https://github.com/user-attachments/assets/1b52e4c0-4210-454c-91cc-b4489fecb451" />
+
+<img width="730" height="289" alt="image" src="https://github.com/user-attachments/assets/566f3cd8-aa72-4cac-97aa-6c88f6ccdcc0" />
+
+<img width="756" height="268" alt="image" src="https://github.com/user-attachments/assets/f5014c7e-67dd-4cde-bf6f-04380db9ec30" />
+
+<img width="719" height="210" alt="image" src="https://github.com/user-attachments/assets/a55a994c-b0b9-4986-8def-ec461fd76c38" />
+
+<img width="749" height="322" alt="image" src="https://github.com/user-attachments/assets/8047941e-7e04-46a9-8ec0-9c5d0377c541" />
+
+<img width="514" height="115" alt="image" src="https://github.com/user-attachments/assets/db052fa3-1742-4a06-b35c-7feb6dc70f51" />
+
+<img width="143" height="165" alt="image" src="https://github.com/user-attachments/assets/6bf58f38-512b-4db6-873d-485071cacff9" />
+
+<img width="566" height="210" alt="image" src="https://github.com/user-attachments/assets/27a267ac-2247-4560-96cf-d14de1011fa8" />
+
+<img width="592" height="263" alt="image" src="https://github.com/user-attachments/assets/dbae4f2b-de92-41d2-852b-2dcbb1741679" />
+
+<img width="593" height="285" alt="image" src="https://github.com/user-attachments/assets/00f252c1-48d1-4f7a-9663-671daf72b913" />
+
+<img width="789" height="368" alt="image" src="https://github.com/user-attachments/assets/67a49565-e99e-4412-8da2-9d0d607561ef" />
+
+<img width="720" height="181" alt="image" src="https://github.com/user-attachments/assets/f8bec17c-a550-4954-b549-6d0a33c162a4" />
+
 
 ## Particions i punts de restauració
+
+
+
+
+
+
+
 ## Configuració bàsica de la xarxa
+
+<img width="1018" height="617" alt="image" src="https://github.com/user-attachments/assets/44b7a5d8-1e71-4f55-8c18-682e69ca62c8" />
+
 ## Comandes generals i instal·lació d'aplicacions
