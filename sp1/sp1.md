@@ -68,6 +68,8 @@ En reiniciar es veu el GRUB:
 
 <img width="720" height="181" alt="image" src="https://github.com/user-attachments/assets/f8bec17c-a550-4954-b549-6d0a33c162a4" />
 
+<img width="737" height="175" alt="image" src="https://github.com/user-attachments/assets/d100358d-82a9-4a73-90ad-7ac4c852d7c0" />
+
 
 ## Particions i punts de restauració
 
@@ -81,4 +83,20 @@ En reiniciar es veu el GRUB:
 
 <img width="1018" height="617" alt="image" src="https://github.com/user-attachments/assets/44b7a5d8-1e71-4f55-8c18-682e69ca62c8" />
 
+<img width="735" height="236" alt="image" src="https://github.com/user-attachments/assets/b16ea57b-0741-4fb5-b453-432cf8fd070a" />
+
+<img width="710" height="208" alt="image" src="https://github.com/user-attachments/assets/b58a4e8a-2ea5-48f2-8477-ecaf4dc2fa16" />
+
+<img width="601" height="218" alt="image" src="https://github.com/user-attachments/assets/b79260cc-203f-49ab-af7e-408378186fb0" />
+
+<img width="737" height="493" alt="image" src="https://github.com/user-attachments/assets/43d59cd8-26a5-456b-b68a-61ec75463cc4" />
+
+<img width="730" height="311" alt="image" src="https://github.com/user-attachments/assets/b1382b03-8107-43cc-8d2c-31c656822f5d" />
+
+<img width="741" height="610" alt="image" src="https://github.com/user-attachments/assets/a3f0c55a-a570-4667-9518-e0eee52aa142" />
+
+
 ## Comandes generals i instal·lació d'aplicacions
+
+<img width="726" height="178" alt="image" src="https://github.com/user-attachments/assets/dafa2fbe-1131-4f2d-ae1b-da9654b1b412" />
+
