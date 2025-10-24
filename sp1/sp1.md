@@ -44,7 +44,11 @@ En reiniciar es veu el GRUB:
 
 ## Instantanies
 
+Afegim un nou disc virtual
+
 <img width="708" height="405" alt="image" src="https://github.com/user-attachments/assets/1b52e4c0-4210-454c-91cc-b4489fecb451" />
+
+Amb l’eina «fdisk», accedim a aquest nou disc (sdb) per formatar-ho a ext4 (sistema de fitxer d’ubuntu). Crearem una partició amb tot l’espai i la formatarem.
 
 <img width="730" height="289" alt="image" src="https://github.com/user-attachments/assets/566f3cd8-aa72-4cac-97aa-6c88f6ccdcc0" />
 
