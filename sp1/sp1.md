@@ -118,5 +118,7 @@ Prova de connexió.
 
 ## Comandes generals i instal·lació d'aplicacions
 
+Revisem la versió d'un paquet.
+
 <img width="726" height="178" alt="image" src="https://github.com/user-attachments/assets/dafa2fbe-1131-4f2d-ae1b-da9654b1b412" />
 
