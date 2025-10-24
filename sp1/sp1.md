@@ -58,17 +58,25 @@ Amb l’eina «fdisk», accedim a aquest nou disc (sdb) per formatar-ho a ext4 (
 
 <img width="749" height="322" alt="image" src="https://github.com/user-attachments/assets/8047941e-7e04-46a9-8ec0-9c5d0377c541" />
 
+Després instal·lem «timeshift	», un programari per realitzar instantànies.
+
 <img width="514" height="115" alt="image" src="https://github.com/user-attachments/assets/db052fa3-1742-4a06-b35c-7feb6dc70f51" />
 
 <img width="143" height="165" alt="image" src="https://github.com/user-attachments/assets/6bf58f38-512b-4db6-873d-485071cacff9" />
 
+Hi creem uns quants arxius que després esborrarem per comprovar que es recuperen.
+
 <img width="566" height="210" alt="image" src="https://github.com/user-attachments/assets/27a267ac-2247-4560-96cf-d14de1011fa8" />
+
+El següent és configurar timeshift, com el tipus, lloc (ho ficarem tot al segon disc d’abans), i les carpetes a assegurar.
 
 <img width="592" height="263" alt="image" src="https://github.com/user-attachments/assets/dbae4f2b-de92-41d2-852b-2dcbb1741679" />
 
 <img width="593" height="285" alt="image" src="https://github.com/user-attachments/assets/00f252c1-48d1-4f7a-9663-671daf72b913" />
 
 <img width="789" height="368" alt="image" src="https://github.com/user-attachments/assets/67a49565-e99e-4412-8da2-9d0d607561ef" />
+
+Ara ho esborrem i després de fer la recuperació, tornen a estar els fitxers.
 
 <img width="720" height="181" alt="image" src="https://github.com/user-attachments/assets/f8bec17c-a550-4954-b549-6d0a33c162a4" />
 
@@ -85,7 +93,11 @@ Amb l’eina «fdisk», accedim a aquest nou disc (sdb) per formatar-ho a ext4 (
 
 ## Configuració bàsica de la xarxa
 
+Deixarem la màquina en Adaptador pont perquè la xarxa la identifiqui com un dispositiu independent. 
+
 <img width="1018" height="617" alt="image" src="https://github.com/user-attachments/assets/44b7a5d8-1e71-4f55-8c18-682e69ca62c8" />
+
+Prova de connexió.
 
 <img width="735" height="236" alt="image" src="https://github.com/user-attachments/assets/b16ea57b-0741-4fb5-b453-432cf8fd070a" />
 
@@ -93,7 +105,11 @@ Amb l’eina «fdisk», accedim a aquest nou disc (sdb) per formatar-ho a ext4 (
 
 <img width="601" height="218" alt="image" src="https://github.com/user-attachments/assets/b79260cc-203f-49ab-af7e-408378186fb0" />
 
+Modificació del fitxer netplan per a IP estàtica.
+
 <img width="737" height="493" alt="image" src="https://github.com/user-attachments/assets/43d59cd8-26a5-456b-b68a-61ec75463cc4" />
+
+Prova de connexió.
 
 <img width="730" height="311" alt="image" src="https://github.com/user-attachments/assets/b1382b03-8107-43cc-8d2c-31c656822f5d" />
 
