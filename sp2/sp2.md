@@ -85,5 +85,32 @@ Un volumn és com una capa d'abstracció que es fica per damunt de les particion
 
 ### Gestió d'usuaris, grups i permisos
 
+Al fitxer "passwd" a la carpeta "etc" mostra tots els usuaris del sistema.
+
+<img width="738" height="494" alt="imatge" src="https://github.com/user-attachments/assets/0080afcb-9ac0-442a-8802-afdf967ab39a" />
+
+Al fitxer "group" els grups que té el sistema.
+
+<img width="738" height="494" alt="imatge" src="https://github.com/user-attachments/assets/0f2a7289-6812-4948-8705-199eaccee51a" />
+
+Al fitxer "shadow" es troben les contrasenyes dels usaris encriptades.
+
+<img width="738" height="494" alt="imatge" src="https://github.com/user-attachments/assets/f657898b-1b5e-4c26-83ee-01826408698b" />
+
+Al fitxer "gshadow" es veuen els administradors de cada grup.
+
+<img width="760" height="500" alt="imatge" src="https://github.com/user-attachments/assets/e9a51286-174a-4c2f-bc2d-d53012b68e34" />
+
+
+Crearem un usuari nom "xavi" d'exemple, se li crearà una home automaticament, pero sense contingut (Descarregues, Imatges, Documents...). Per a que apareguen, cal entrar per primera vegada a l'usari, després ja sortirà.
+
+<img width="783" height="186" alt="imatge" src="https://github.com/user-attachments/assets/cec39fd1-1f6d-4981-9492-5b55b6aed5d2" />
+
+També podem fer servir "useradd", però caldrà introduir els demés parametres amb comandes també.
+<img width="735" height="413" alt="imatge" src="https://github.com/user-attachments/assets/64798ca3-e9f7-41cc-ad96-33028a9ca220" />
+
+<img width="599" height="133" alt="imatge" src="https://github.com/user-attachments/assets/803b0125-0c49-4014-b032-ded34bd61e90" />
+
+
 ### Gestió de procesos
 
