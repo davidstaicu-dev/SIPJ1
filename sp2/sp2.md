@@ -112,5 +112,51 @@ També podem fer servir "useradd", però caldrà introduir els demés parametres
 <img width="599" height="133" alt="imatge" src="https://github.com/user-attachments/assets/803b0125-0c49-4014-b032-ded34bd61e90" />
 
 
+Podem borrar usuaris amb "deluser", però no borra els seus remanents. En canvi, "userdel -r" sí.
+
+<img width="750" height="193" alt="imatge" src="https://github.com/user-attachments/assets/7281fd84-7029-4309-8260-a112802be516" />
+
+Per bloquejar un usuari, es fa servir "usermod -L". Per tornar-ho a habilitar, es fa "usermod -U".
+
+<img width="737" height="228" alt="imatge" src="https://github.com/user-attachments/assets/df735330-4185-4809-9c29-056d7aac635a" />
+
+Creació de grups.
+
+<img width="539" height="157" alt="imatge" src="https://github.com/user-attachments/assets/f6a4145d-e4c3-47bd-8c70-f665a9410a7e" />
+
+Afegir usuaris a un grup:
+
+<img width="511" height="185" alt="imatge" src="https://github.com/user-attachments/assets/eaebcebc-a7a3-42a3-9a0f-4481b542ed09" />
+
+Llevar usuaris d'un grup:
+
+<img width="511" height="150" alt="imatge" src="https://github.com/user-attachments/assets/fa2165e3-1c73-4dd2-a762-195fb303ae06" />
+
+Canviar grup principal d'un usuari:
+
+<img width="551" height="86" alt="imatge" src="https://github.com/user-attachments/assets/03fcb400-f743-4cbb-9703-5bf0c4dab415" />
+
+Eliminem grups amb "groupdel", però en cas de que el grup sigui el principal d'un o més usuaris, no es podrà executar la comanda.
+
+<img width="640" height="101" alt="imatge" src="https://github.com/user-attachments/assets/c856871f-9bf1-4ca7-8b92-77059410a318" />
+
+Hi ha uns fitxers que ens permet personalitzar el comportament de les comandes "adduser" i "useradd". "adduser.conf" sols afecta a la comanda "adduser, "useradd" sols a la comanda "useradd" i "login.defs" a ambdues.
+
+<img width="638" height="83" alt="imatge" src="https://github.com/user-attachments/assets/e9c3551a-f1b2-41b7-9068-3a382d3498f2" />
+
+També, al crear amb "adduser", tot el que està a /etc/skel/ es copiarà a la carpeta personal de l'usuari. Amb això, farem un parell de proves.
+
+
+Carpetes del /etc/skel:
+
+
+<img width="364" height="211" alt="imatge" src="https://github.com/user-attachments/assets/cfec6b68-49d1-4715-9031-d77119fd87de" />
+
+
+
+<img width="626" height="98" alt="imatge" src="https://github.com/user-attachments/assets/5c4c629c-8494-45f4-9377-a852ac6a0898" />
+
+
+
 ### Gestió de procesos
 
