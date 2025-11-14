@@ -156,6 +156,9 @@ Carpetes del /etc/skel:
 
 <img width="626" height="98" alt="imatge" src="https://github.com/user-attachments/assets/5c4c629c-8494-45f4-9377-a852ac6a0898" />
 
+<img width="742" height="302" alt="image" src="https://github.com/user-attachments/assets/e4ad8b31-d03e-4cf7-919c-72373690108d" />
+
+<img width="745" height="225" alt="image" src="https://github.com/user-attachments/assets/baac8ea6-c6f7-4e62-9e9b-200656f2276b" />
 
 
 ### Gestió de procesos
