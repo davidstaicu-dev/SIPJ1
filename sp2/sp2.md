@@ -17,6 +17,7 @@ Un block és la unitat mínima llògica on es guarden les dades a nivell sistema
 
 <img width="467" height="116" alt="imatge" src="https://github.com/user-attachments/assets/9334e800-f2d9-4ad9-9722-99f3e54c92c5" />
 
+
 <img width="263" height="230" alt="imatge" src="https://github.com/user-attachments/assets/97f87195-b38d-41f9-9a43-98552a1ee89a" />
 
 
@@ -58,11 +59,19 @@ Un volumn és com una capa d'abstracció que es fica per damunt de les particion
 
 # Gparted
 
+GParted és una eina lliure per gestionar particions de disc amb una interfície gràfica senzilla.
+Permet crear, redimensionar, moure i eliminar particions de manera segura en diversos sistemes de fitxers.
+
+
 <img width="770" height="548" alt="imatge" src="https://github.com/user-attachments/assets/87667e81-af28-4447-915a-5939bb1093f4" />
 
 
 
 # Comandes
+
+Les comandes de terminal per formatar discos en Linux inclouen eines com **mkfs** (com *mkfs.ext4*, *mkfs.vfat*, *mkfs.ntfs*) i **fdisk** per crear o modificar particions abans de formatar-les.
+El fitxer **/etc/fstab** defineix quines particions o sistemes de fitxers s’han de muntar automàticament en arrencar i amb quines opcions de muntatge.
+
 
 <img width="736" height="716" alt="imatge" src="https://github.com/user-attachments/assets/076a1a81-adae-4dbb-8bc7-fe8bdd5e15d6" />
 
@@ -144,6 +153,15 @@ Hi ha uns fitxers que ens permet personalitzar el comportament de les comandes "
 
 <img width="638" height="83" alt="imatge" src="https://github.com/user-attachments/assets/e9c3551a-f1b2-41b7-9068-3a382d3498f2" />
 
+Exemples personals:
+
+<img width="728" height="412" alt="imatge" src="https://github.com/user-attachments/assets/a8feba29-d38d-4cd9-b466-e5d50031befe" />
+
+<img width="728" height="412" alt="imatge" src="https://github.com/user-attachments/assets/2beb3768-515c-49a7-ac13-c1289baeead3" />
+
+<img width="728" height="412" alt="imatge" src="https://github.com/user-attachments/assets/3609dbee-1795-4bc4-85cf-475e0052a864" />
+
+
 També, al crear amb "adduser", tot el que està a /etc/skel/ es copiarà a la carpeta personal de l'usuari. Amb això, farem un parell de proves.
 
 
@@ -156,6 +174,8 @@ Carpetes del /etc/skel:
 
 <img width="626" height="98" alt="imatge" src="https://github.com/user-attachments/assets/5c4c629c-8494-45f4-9377-a852ac6a0898" />
 
+`.profile` carrega configuracions d’entorn quan inicies sessió, `.bashrc` defineix alias i funcions per a cada shell interactiu, i `.bash_logout` executa ordres en tancar la sessió.
+I aquí uns exemples personals
 
 
 <img width="742" height="302" alt="image" src="https://github.com/user-attachments/assets/e4ad8b31-d03e-4cf7-919c-72373690108d" />
