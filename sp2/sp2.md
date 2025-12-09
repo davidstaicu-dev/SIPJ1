@@ -185,6 +185,29 @@ I aquí uns exemples personals
 
 <img width="745" height="225" alt="image" src="https://github.com/user-attachments/assets/baac8ea6-c6f7-4e62-9e9b-200656f2276b" />
 
+## Gestió de permisos
+
+Preparo l'entorn per als següents pasos:
+
+<img width="620" height="493" alt="imatge" src="https://github.com/user-attachments/assets/55edde1d-f153-4a1a-b271-78730fb095cf" />
+<img width="512" height="278" alt="imatge" src="https://github.com/user-attachments/assets/efef0b84-6fc9-4f54-89fc-0a7b9b1a545e" />
+
+<img width="618" height="295" alt="imatge" src="https://github.com/user-attachments/assets/fa57ca30-8741-4a9e-9bcc-ea22ef0dd910" />
+
+<img width="612" height="277" alt="imatge" src="https://github.com/user-attachments/assets/5bcdb0ff-fb90-4db7-8ab0-0c698a7ba984" />
+
+<img width="727" height="313" alt="imatge" src="https://github.com/user-attachments/assets/303c0aba-697a-401b-bf49-06860e420672" />
+
+## ACL
+
+<img width="697" height="388" alt="imatge" src="https://github.com/user-attachments/assets/bd81088e-dbcb-43e1-a5cb-7c3f0e368145" />
+
+<img width="706" height="423" alt="imatge" src="https://github.com/user-attachments/assets/8cc2dede-bb87-4642-8cf3-7c78905d3bfb" />
+
+<img width="461" height="164" alt="imatge" src="https://github.com/user-attachments/assets/c6d29ddc-0841-48f1-b48f-5452d5555a72" />
+
+<img width="731" height="420" alt="imatge" src="https://github.com/user-attachments/assets/3a0ac154-6e5a-451f-8ddd-f23459993697" />
+
 
 ### Gestió de procesos
 
