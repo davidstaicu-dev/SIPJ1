@@ -105,10 +105,15 @@ dd: "dd" no és per a fer còpies, és per a clonar particions o discos. No és 
 
 3- Pràctica comandes backup
 cp:
+ㅤㅤ
 <img width="735" height="318" alt="imatge" src="https://github.com/user-attachments/assets/cbc42363-f93b-4fef-b264-082524218511" />
+ㅤㅤ
 rsync:
+ㅤㅤ
 <img width="743" height="416" alt="imatge" src="https://github.com/user-attachments/assets/78babdff-f23c-4151-a797-7702020c1557" />
+ㅤㅤ
 dd:
+ㅤㅤ
 <img width="739" height="223" alt="imatge" src="https://github.com/user-attachments/assets/113ff3b4-41ff-4ec6-99c2-5b423eec9b02" />
 
 
@@ -116,32 +121,44 @@ dd:
 Deja-Dup
 5- Teoria Automatització scripts, cron i anacron
 Un script és un fitxer que serveix per automatizar tasques, poden ser simples o complexes i en diversos llenguatges.
+ㅤㅤ
 <img width="736" height="198" alt="imatge" src="https://github.com/user-attachments/assets/fd883587-698d-4a35-a159-3909152294fe" />
+ㅤㅤ
 <img width="583" height="102" alt="imatge" src="https://github.com/user-attachments/assets/71cc178c-89f1-4b1d-ac0c-a05cdd774679" />
+ㅤㅤ
 
 <img width="720" height="186" alt="imatge" src="https://github.com/user-attachments/assets/89b4b9ba-8b05-4a5c-ad3c-dc68a91de26f" />
+ㅤㅤ
 <img width="277" height="336" alt="imatge" src="https://github.com/user-attachments/assets/00cbad90-2836-44cf-a3ac-6d6cc78ce4fa" />
+ㅤㅤ
 
 <img width="720" height="71" alt="imatge" src="https://github.com/user-attachments/assets/28120412-6904-4bec-acc9-40e16b59473d" />
+ㅤㅤ
 <img width="719" height="132" alt="imatge" src="https://github.com/user-attachments/assets/07eeffd8-b49c-4a0e-8128-c9192acf4e7b" />
+ㅤㅤ
 <img width="730" height="173" alt="imatge" src="https://github.com/user-attachments/assets/6e1a0b8d-e4bd-4834-af6a-9cafa8570850" />
+ㅤㅤ
 
 Funciona:
 <img width="730" height="173" alt="imatge" src="https://github.com/user-attachments/assets/78342194-476d-43a1-9272-29a4b3328be9" />
+ㅤㅤ
 
 
 6- Pràctica automatització
 6.1- cron
 El cron s'utilitza normalment per automatizar tasques per a usuaris especifics en una data i hora concrets. Si en aquell moment l'ordinador està tancat, la tasca es perd.
 <img width="734" height="484" alt="imatge" src="https://github.com/user-attachments/assets/f017fa13-8b67-45aa-aabb-9dd6d724aa30" />
+ㅤㅤ
 
 Carpetes cron:
 <img width="621" height="278" alt="imatge" src="https://github.com/user-attachments/assets/cd6f9835-4357-433a-a42f-7d1bdb94b6ab" />
+ㅤㅤ
 
 
 6-2- anacron
 Anacron és el mateix, però la tasca no es perd perqué anacron el recupera.
 <img width="734" height="484" alt="imatge" src="https://github.com/user-attachments/assets/0370299f-7885-480f-a74b-400d68552140" />
+ㅤㅤ
 
 
 Abans anaven per separat, però actualment treballen junts.
