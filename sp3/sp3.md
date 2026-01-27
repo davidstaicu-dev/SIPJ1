@@ -76,42 +76,6 @@ Després d'un update, instal·larem el paquets de l'LDAP mitjançant apt.
 <img width="572" height="210" alt="imatge" src="https://github.com/user-attachments/assets/2de68de7-0d1b-4238-9bbf-3f5e6dcf99bf" />
 
 
-<img width="750" height="192" alt="imatge" src="https://github.com/user-attachments/assets/6278b6db-07f3-40f5-a81a-0a990a4419ff" />
-
-
-<img width="594" height="317" alt="imatge" src="https://github.com/user-attachments/assets/33f0fdba-f04c-4090-9463-4e3f1108e943" />
-
-
-<img width="758" height="388" alt="imatge" src="https://github.com/user-attachments/assets/d2a5134c-4e1c-4a09-9923-3075027ad083" />
-
-<img width="758" height="388" alt="imatge" src="https://github.com/user-attachments/assets/e347726a-8086-4f25-80e6-10d7a6848050" />
-
-<img width="480" height="194" alt="imatge" src="https://github.com/user-attachments/assets/ce702d3c-cbc7-44fa-97ac-75ac8dc99c4b" />
-
-<img width="735" height="325" alt="imatge" src="https://github.com/user-attachments/assets/e86c2918-6a1d-45a7-bd71-0cac23f759cd" />
-
-<img width="637" height="544" alt="imatge" src="https://github.com/user-attachments/assets/da68c26a-c404-4e07-949b-e2954578bbb0" />
-
-
-<img width="660" height="210" alt="imatge" src="https://github.com/user-attachments/assets/b1174eb2-317f-4a42-9707-6d8e72fe9b8d" />
-
-
-<img width="660" height="210" alt="imatge" src="https://github.com/user-attachments/assets/99736e67-4f2e-4669-a3c9-c27303289abe" />
-
-<img width="695" height="259" alt="imatge" src="https://github.com/user-attachments/assets/79d67d71-3ea0-4db7-bf46-543e62a4b852" />
-
-<img width="422" height="546" alt="imatge" src="https://github.com/user-attachments/assets/bcdd7763-33ac-443c-b999-aaf053f0218e" />
-
-<img width="657" height="163" alt="imatge" src="https://github.com/user-attachments/assets/ab3bbd10-183f-430d-929f-24b16d3f4b92" />
-
-<img width="563" height="207" alt="imatge" src="https://github.com/user-attachments/assets/1bb39641-6358-4c6d-ae86-a48bf7446219" />
-
-<img width="759" height="134" alt="imatge" src="https://github.com/user-attachments/assets/eed88273-e524-4874-a3b2-18c1d1d66a5d" />
-
-<img width="737" height="443" alt="imatge" src="https://github.com/user-attachments/assets/1d783106-c88a-42c7-94e7-f2ae973342e1" />
-
-
-
 
 
 # Servidor samba i NFS
