@@ -71,11 +71,13 @@ Després d'un update, instal·larem el paquets de l'LDAP mitjançant apt.
 
 <img width="572" height="210" alt="imatge" src="https://github.com/user-attachments/assets/14bd92b0-05ed-4934-9d04-93903588e115" />
 
-<img width="572" height="210" alt="imatge" src="https://github.com/user-attachments/assets/5c226454-8c32-4537-9aed-530a99505943" />ç
+<img width="572" height="210" alt="imatge" src="https://github.com/user-attachments/assets/5c226454-8c32-4537-9aed-530a99505943" />
 
 <img width="572" height="210" alt="imatge" src="https://github.com/user-attachments/assets/2de68de7-0d1b-4238-9bbf-3f5e6dcf99bf" />
 
 
+Exercicis:
+### [PDF amb les comandes i resultats](sp3/exLDAP.pdf)
 
 
 # Servidor samba i NFS
