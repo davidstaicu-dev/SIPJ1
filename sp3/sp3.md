@@ -121,4 +121,55 @@ Com es denega l'accés, torna a la pantalla sense infomació d'usuari, és a dir
 
 ## NFS
 
+### Server
+
+<img width="716" height="140" alt="imatge" src="https://github.com/user-attachments/assets/8308b680-d94b-4df6-a506-a637538e2c50" />
+
+
+<img width="753" height="227" alt="imatge" src="https://github.com/user-attachments/assets/ae93e353-9073-4ab1-8d70-1fcd8a8ce419" />
+
+<img width="721" height="160" alt="imatge" src="https://github.com/user-attachments/assets/755a118e-9dde-4aaf-baa2-ebcdebeedfa0" />
+
+<img width="727" height="345" alt="imatge" src="https://github.com/user-attachments/assets/0d7a452d-e39a-4be0-b72d-f04b4caa55d3" />
+
+
+### Client
+
+<img width="703" height="135" alt="imatge" src="https://github.com/user-attachments/assets/8ac68edc-2dc0-4eef-8ae1-1a8d6498b96f" />
+
+<img width="614" height="132" alt="imatge" src="https://github.com/user-attachments/assets/75ef5498-389d-4250-8846-25dac8cddc46" />
+
+<img width="1391" height="366" alt="imatge" src="https://github.com/user-attachments/assets/21949b89-5133-4045-8164-44a7785d8b79" />
+
+<img width="406" height="102" alt="imatge" src="https://github.com/user-attachments/assets/060f98cb-f581-4623-a07a-9a92d44d39e7" />
+
+<img width="357" height="130" alt="imatge" src="https://github.com/user-attachments/assets/8f50d59e-21a9-44a4-9407-f7e192015319" />
+
+<img width="672" height="134" alt="imatge" src="https://github.com/user-attachments/assets/843a6f07-754f-4744-baf8-21fb146a4341" />
+
+<img width="373" height="85" alt="imatge" src="https://github.com/user-attachments/assets/bf23c007-f11a-4760-9780-22584f50edfa" />
+
+
+### Amb usuaris
+
+<img width="407" height="104" alt="imatge" src="https://github.com/user-attachments/assets/4bedd9cf-bdcd-431c-88ca-ba7cfbf723a4" />
+
+
+<img width="669" height="139" alt="imatge" src="https://github.com/user-attachments/assets/85374d50-de66-4299-bc36-890e22b52636" />
+
+
+<img width="736" height="496" alt="imatge" src="https://github.com/user-attachments/assets/aee27afe-1ff9-4ef0-9778-1bacbd2a41b8" />
+
+<img width="753" height="113" alt="imatge" src="https://github.com/user-attachments/assets/fa9be27e-fa5a-429e-9f71-1c0d9cff6c9d" />
+
+
+<img width="400" height="87" alt="imatge" src="https://github.com/user-attachments/assets/8acd88fb-cc5e-4694-bedc-ad5c12a430d3" />
+
+
+<img width="472" height="143" alt="imatge" src="https://github.com/user-attachments/assets/062d4e85-1f81-46a8-98d2-1369017f9544" />
+
+
+## NFS Windows
+
+<img width="865" height="385" alt="imatge" src="https://github.com/user-attachments/assets/a2f8845a-efd6-44ab-83f8-ec04f37ebb63" />
 
