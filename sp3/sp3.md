@@ -173,3 +173,8 @@ Com es denega l'accés, torna a la pantalla sense infomació d'usuari, és a dir
 
 <img width="865" height="385" alt="imatge" src="https://github.com/user-attachments/assets/a2f8845a-efd6-44ab-83f8-ec04f37ebb63" />
 
+<img width="659" height="544" alt="imatge" src="https://github.com/user-attachments/assets/ae6106d6-e0eb-497b-915d-ca759f7c4b8e" />
+
+<img width="1225" height="694" alt="imatge" src="https://github.com/user-attachments/assets/9cc0c27c-34e0-49d0-9005-97edc3ea58c2" />
+
+<img width="1225" height="694" alt="imatge" src="https://github.com/user-attachments/assets/ebd12c17-d485-40ff-8f40-f3b15f91a07a" />
