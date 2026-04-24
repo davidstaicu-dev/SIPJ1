@@ -45,4 +45,37 @@ I ara no s'ha desat el log amb .alert, sols el .crit:
 <img width="828" height="247" alt="image" src="https://github.com/user-attachments/assets/71cbb654-7441-4cec-8a1e-a6482a545703" />
 
 
+# SSH
+
+El primer es instalar aquests paquests en ambdues màquines, un permet connectar-se i l'altres que es connectin.
+
+<img width="703" height="117" alt="imatge" src="https://github.com/user-attachments/assets/c3125d41-8b43-49d3-b173-650c837d3e01" />
+
+A partir d'això es pot executar la comanda "ssh *usuari@IP*" per connectar-se remotament a altres màquines de la mateixa xarxa.
+
+<img width="738" height="477" alt="imatge" src="https://github.com/user-attachments/assets/b8e18fed-bfa2-4d2a-995b-f1f64d1aabd8" />
+
+# VNC
+
+Per fer servir VNC m'agrada utilitzar Remmina, un programari de connexió remota. S'instala amb:
+
+<img width="715" height="99" alt="imatge" src="https://github.com/user-attachments/assets/8f206914-aaf3-4283-af33-8eacf2cf7f1a" />
+
+També és necessari tindre un servidor VNC al que conectarse:
+
+<img width="683" height="134" alt="imatge" src="https://github.com/user-attachments/assets/8c66679c-a914-4a47-8351-115640d3171c" />
+
+Ara cal permetre la compartició de pantalla a la configuració local de la màquina:
+
+<img width="710" height="298" alt="Captura de pantalla de 2026-04-24 12-02-13" src="https://github.com/user-attachments/assets/2ef92d7f-a43b-4d4d-a4ee-8d3c94823fae" />
+
+Per últim, obrim Remmina i li donem a "Nova connexió" i introduïm les dades de la màquina a connectar-se.
+
+<img width="960" height="661" alt="Captura de pantalla de 2026-04-24 12-06-02" src="https://github.com/user-attachments/assets/0f31b4fc-6b1d-429c-ba82-729442590162" />
+
+<img width="1920" height="987" alt="imatge" src="https://github.com/user-attachments/assets/9986935c-f3b7-41ef-8f6e-2c0340f5b3da" />
+
+
+
+
 
