@@ -44,6 +44,37 @@ I ara no s'ha desat el log amb .alert, sols el .crit:
 
 <img width="828" height="247" alt="image" src="https://github.com/user-attachments/assets/71cbb654-7441-4cec-8a1e-a6482a545703" />
 
+## Logs d'una màquina externa
+
+Tornem a rsyslog.conf i descomentem aqueste linies:
+
+<img width="351" height="144" alt="imatge" src="https://github.com/user-attachments/assets/3ab3ca8d-930f-4c4a-8709-816cbbcf0952" />
+
+Després, al final, afegir això:
+
+<img width="690" height="106" alt="imatge" src="https://github.com/user-attachments/assets/be3876aa-ce56-4827-a583-bd555e885d94" />
+
+Per últim, reiniciem el servei i permetem el port:
+
+<img width="595" height="96" alt="imatge" src="https://github.com/user-attachments/assets/027c9b3a-e6f0-40e0-9e6b-cf9baac28bc8" />
+
+
+Per part del client també cal configurar cosetes. Anem al seu rsyslog.conf i afegim això. @ per a UDP i @@ per a TCP:
+
+<img width="231" height="67" alt="imatge" src="https://github.com/user-attachments/assets/250d1a96-9f2b-4b13-9d7d-d59ba28c9cc3" />
+
+Reiniciem el servei.
+
+<img width="631" height="27" alt="imatge" src="https://github.com/user-attachments/assets/30cc9014-6d0d-4d79-9db0-51ffa53610e3" />
+
+Provaré a generar un log per veure si es trova al server:
+
+<img width="734" height="79" alt="imatge" src="https://github.com/user-attachments/assets/420e9b6f-0240-44d5-b50d-aebfd2eb7eca" />
+
+Et voilà:
+
+<img width="738" height="121" alt="Captura de pantalla de 2026-04-24 13-09-52" src="https://github.com/user-attachments/assets/0fd9a6e5-349b-46ae-b5e4-e623be8a04e1" />
+
 
 # SSH
 
