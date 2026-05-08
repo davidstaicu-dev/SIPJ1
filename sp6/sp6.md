@@ -30,3 +30,7 @@ Fase 3 – Script de còpia i automatització
 
 <img width="498" height="339" alt="imatge" src="https://github.com/user-attachments/assets/6ca9db46-5ba3-45cf-b871-30b4caca0c43" />
 
+Després de reiniciar
+
+<img width="1113" height="591" alt="imatge" src="https://github.com/user-attachments/assets/0238a82f-af59-4238-8e44-bbad77358f01" />
+
