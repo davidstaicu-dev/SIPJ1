@@ -135,4 +135,11 @@ Exemples coneguts:
 * [G2A](https://www.g2a.com?utm_source=chatgpt.com)
 * [Kinguin](https://www.kinguin.net?utm_source=chatgpt.com)
 
+En aquest cas, la màquina virtual utilitzada no disposa d’una activació de Windows. Mitjançant la comanda: slmgr /xpr
+
+S’ha pogut comprovar l’estat de la llicència del sistema.
+
+També s’han analitzat els principals tipus de llicències de Windows (Home, Pro i Enterprise), així com les diferències entre llicències Retail, OEM i Volume.
+
+Finalment, s’han consultat preus aproximats tant oficials com de marketplaces.
 
