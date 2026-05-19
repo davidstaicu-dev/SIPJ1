@@ -19,5 +19,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 ### [A1. Sprint 2: Gestió de la Informació del Sistema i Administració](sp2/sp2.md)
 ### [A1. Sprint 3: Gestió de Dominis i Accessos](sp3/sp3.md)
 ### [A1. Sprint 4: Monitorització, connexió remota i llicenciament](sp4/sp4.md)
-### [A1. Sprint 4: Monitorització, connexió remota i llicenciament](sp5/sp5.md)
-### [A1. Sprint 4: Monitorització, connexió remota i llicenciament](sp6/sp6.md)
+### [A1. Sprint 5: Monitorització, connexió remota i llicenciament](sp5/sp5.md)
+### [A1. Sprint 6: Monitorització, connexió remota i llicenciament](sp6/sp6.md)
