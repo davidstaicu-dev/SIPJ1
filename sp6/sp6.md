@@ -46,6 +46,9 @@ Després de reiniciar
 
 <img width="431" height="519" alt="imatge" src="https://github.com/user-attachments/assets/a77ad468-0e0e-4feb-87d9-c3b1132a4080" />
 
+<img width="431" height="519" alt="imatge" src="https://github.com/user-attachments/assets/a8b5eaee-7ca4-4a1b-ba7c-f4ecbab540df" />
+
+
 <img width="817" height="276" alt="imatge" src="https://github.com/user-attachments/assets/fe4abd7b-3ed3-4f51-aa02-4e5817e591f5" />
 
 <img width="799" height="369" alt="imatge" src="https://github.com/user-attachments/assets/27982495-cd78-41f0-9405-36452342439c" />
