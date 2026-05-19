@@ -34,3 +34,21 @@ Després de reiniciar
 
 <img width="1113" height="591" alt="imatge" src="https://github.com/user-attachments/assets/0238a82f-af59-4238-8e44-bbad77358f01" />
 
+# Fase 6 – Gestió de permisos (ACLs)
+
+<img width="456" height="230" alt="imatge" src="https://github.com/user-attachments/assets/66aa211f-942c-4d44-839a-16f8f9bcaae3" />
+
+<img width="450" height="411" alt="imatge" src="https://github.com/user-attachments/assets/a6180175-f013-4f73-8a57-0135e65ff0a1" />
+
+<img width="447" height="492" alt="imatge" src="https://github.com/user-attachments/assets/7e2801d9-91d2-42d0-b441-844ccde5abda" />
+
+<img width="447" height="492" alt="imatge" src="https://github.com/user-attachments/assets/32a1f2ee-5a50-44ff-b0f0-c58c234c8c1f" />
+
+<img width="431" height="519" alt="imatge" src="https://github.com/user-attachments/assets/a77ad468-0e0e-4feb-87d9-c3b1132a4080" />
+
+<img width="817" height="276" alt="imatge" src="https://github.com/user-attachments/assets/fe4abd7b-3ed3-4f51-aa02-4e5817e591f5" />
+
+<img width="799" height="369" alt="imatge" src="https://github.com/user-attachments/assets/27982495-cd78-41f0-9405-36452342439c" />
+
+<img width="644" height="223" alt="imatge" src="https://github.com/user-attachments/assets/d73b163e-33da-4abb-ba36-c388d3d72d74" />
+
